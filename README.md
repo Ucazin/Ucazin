@@ -71,29 +71,29 @@ Data Analyst focused on turning raw data into business decisions. I build reliab
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&rank_icon=github&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ucazin&rank_icon=github&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ucazin&layout=compact&theme=tokyonight&count_private=true" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ucazin&theme=tokyonight" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ucazin&theme=tokyo-night" />
 </div>
 
 <div align="center">
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Ucazin&theme=tokyonight" />
 </div>
 
 ---
 
 ### 🌟 Featured Projects
 
-* **[Project Name](https://github.com/YOUR_USERNAME/project-1):** End-to-end analytics pipeline — SQL + dbt + Looker dashboard tracking [key metric]. Reduced reporting time by X%.
-* **[Project Name](https://github.com/YOUR_USERNAME/project-2):** A/B test analysis in Python — hypothesis testing, lift calculation, and stakeholder-ready report.
-* **[Project Name](https://github.com/YOUR_USERNAME/project-3):** Power BI dashboard for marketing attribution — multi-touch attribution across paid channels.
+* **[Project Name](https://github.com/Ucazin/project-1):** End-to-end analytics pipeline — SQL + dbt + Looker dashboard tracking [key metric]. Reduced reporting time by X%.
+* **[Project Name](https://github.com/Ucazin/project-2):** A/B test analysis in Python — hypothesis testing, lift calculation, and stakeholder-ready report.
+* **[Project Name](https://github.com/Ucazin/project-3):** Power BI dashboard for marketing attribution — multi-touch attribution across paid channels.
 
 ---
 
