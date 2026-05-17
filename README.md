@@ -1,4 +1,4 @@
-## Hi, I'm YOUR_NAME! 👋
+## Hi, I'm Lucca! 👋
 ### 📊 Data Analyst | 🧮 SQL · Python · BI | ☁️ Modern Data Stack
 
 Data Analyst focused on turning raw data into business decisions. I build reliable pipelines, dashboards, and analyses that drive measurable impact — with a strong interest in experimentation, A/B testing, and analytics engineering on the modern data stack.
@@ -71,8 +71,8 @@ Data Analyst focused on turning raw data into business decisions. I build reliab
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ucazin&rank_icon=github&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ucazin&layout=compact&theme=tokyonight&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ucazin&rank_icon=github&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ucazin&layout=compact&theme=tokyonight&count_private=true&langs_count=8" />
 </div>
 
 <div align="center">
@@ -100,13 +100,13 @@ Data Analyst focused on turning raw data into business decisions. I build reliab
 ### 📫 Let's Connect
 
 <div>
-  <a href="mailto:your.email@example.com" target="_blank">
+  <a href="mailto:contato@bmai.space" target="_blank">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/YOUR_USERNAME" target="_blank">
+  <a href="https://github.com/Ucazin" target="_blank">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </div>
