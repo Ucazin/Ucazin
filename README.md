@@ -1,7 +1,7 @@
 ## Hi, I'm Lucca! 👋
 ### 📊 Data Analyst | 🧮 SQL · Python · BI | ☁️ Modern Data Stack
 
-Data Analyst focused on turning raw data into business decisions. I build reliable pipelines, dashboards, and analyses that drive measurable impact — with a strong interest in experimentation, A/B testing, and analytics engineering on the modern data stack.
+Data Analyst turning raw data into business decisions. SQL · Python · Power BI · BigQuery. I build dashboards, ETL pipelines, and analytics that ship — with a strong interest in experimentation, A/B testing, and analytics engineering on the modern data stack.
 
 ---
 
@@ -28,7 +28,7 @@ Data Analyst focused on turning raw data into business decisions. I build reliab
 <div>
   <img src="https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlecloud&logoColor=white" />
   <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" />
-  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </div>
@@ -80,20 +80,35 @@ Data Analyst focused on turning raw data into business decisions. I build reliab
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ucazin&theme=tokyo-night" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ucazin&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ucazin&theme=tokyonight" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ucazin&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ucazin&theme=tokyonight&utcOffset=-3" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ucazin&theme=tokyo-night&hide_border=true" />
 </div>
 
 <div align="center">
   <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Ucazin&theme=tokyonight" />
 </div>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ucazin&repo=saas-mrr-churn-analytics&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ucazin&repo=olist-ecommerce-analytics&theme=tokyonight" />
+</div>
+
 ---
 
 ### 🌟 Featured Projects
 
-* **[Project Name](https://github.com/Ucazin/project-1):** End-to-end analytics pipeline — SQL + dbt + Looker dashboard tracking [key metric]. Reduced reporting time by X%.
-* **[Project Name](https://github.com/Ucazin/project-2):** A/B test analysis in Python — hypothesis testing, lift calculation, and stakeholder-ready report.
-* **[Project Name](https://github.com/Ucazin/project-3):** Power BI dashboard for marketing attribution — multi-touch attribution across paid channels.
+* **[SaaS MRR, Churn & Cohort Analytics](https://github.com/Ucazin/saas-mrr-churn-analytics)** — Subscription analytics on a synthetic SaaS dataset (5,000 customers · 36 monthly snapshots · 3 tiers). MRR waterfall, NRR/GRR cohorts, Kaplan-Meier survival, LTV/CAC. **Headline:** ending MRR **$1.99M**, median **NRR 85.2%**, 12-month survival **53.9%**, LTV/CAC up to **17.0× (Growth tier)**. Diagnosed churn concentrating in months 3–6 of customer life (7–9% vs 2–3% early). `Python · pandas · matplotlib`
+* **[Olist E-commerce SQL Analytics](https://github.com/Ucazin/olist-ecommerce-analytics)** — End-to-end SQL analytics on an Olist-shaped Brazilian e-commerce dataset (**96,497 delivered orders**, 92,315 customers, **R$ 14.7M** revenue). DuckDB warehouse, Kimball star schema, 10 business-question queries. **Headline:** late deliveries collapse review score to **1.64/5 vs 3.98** on-time; **86.8%** of 8+d-late orders rated 1–2 stars; bottleneck is carrier transit (25.6d) not seller dispatch (13.1d); **R$ 560k** revenue-at-risk. `SQL · DuckDB · Python`
+* **[Portfolio Hub](https://github.com/Ucazin/portfolio-hub)** — Index of academic and personal data-science / ML projects from CEUB. New analytics projects shipping daily this week.
 
 ---
 
