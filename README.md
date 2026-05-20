@@ -73,6 +73,10 @@ Data Analyst turning raw data into business decisions. SQL Â· Python Â· Powe
 ### ðŸ“Š GitHub Stats
 
 <div align="center">
+  <img src="./github-metrics-languages.svg" />
+</div>
+
+<div align="center">
   <img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" />
   <img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" />
 </div>
