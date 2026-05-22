@@ -107,10 +107,19 @@ Data Analyst turning raw data into business decisions. SQL · Python · Power BI
 
 ### 🌟 Featured Projects
 
-* **[dbt Analytics Warehouse](https://github.com/Ucazin/dbt-analytics-warehouse)** — Production-shaped dbt project on DuckDB modeling a synthetic e-commerce + SaaS dataset into a clean Kimball warehouse. **5 sources → 5 staging views → 3 ephemeral intermediates → 6 marts → 1 snapshot, 70 tests passing, 2 exposures, 2 macros.** Portable to Snowflake / BigQuery with a profile change. `dbt · DuckDB · SQL · Python`
-* **[A/B Testing Framework](https://github.com/Ucazin/ab-testing-framework)** — End-to-end experimentation toolkit on a 60k-user synthetic checkout experiment: **power analysis, SRM check (chi²), CUPED variance reduction, Benjamini-Hochberg correction**, auto-generated ship/no-ship decision doc. **Headline:** CVR +9.4% rel (p=0.0068), revenue +$0.225/visitor (p=0.0097), 0/8 segments significant after BH → ~$984k annualized uplift. `Python · statsmodels · scipy · pandas`
-* **[SaaS MRR, Churn & Cohort Analytics](https://github.com/Ucazin/saas-mrr-churn-analytics)** — Subscription analytics on a synthetic SaaS dataset (5,000 customers · 36 monthly snapshots · 3 tiers). MRR waterfall, NRR/GRR cohorts, Kaplan-Meier survival, LTV/CAC. **Headline:** ending MRR **$1.99M**, median **NRR 85.2%**, 12-month survival **53.9%**, LTV/CAC up to **17.0× (Growth tier)**. Diagnosed churn concentrating in months 3–6 of customer life. `Python · pandas · matplotlib`
-* **[Olist E-commerce SQL Analytics](https://github.com/Ucazin/olist-ecommerce-analytics)** — End-to-end SQL analytics on an Olist-shaped Brazilian e-commerce dataset (**96,497 delivered orders**, 92,315 customers, **R$ 14.7M** revenue). DuckDB warehouse, Kimball star schema, 10 business-question queries. **Headline:** late deliveries collapse review score to **1.64/5 vs 3.98** on-time; bottleneck is carrier transit (25.6d) not seller dispatch (13.1d); **R$ 560k** revenue-at-risk. `SQL · DuckDB · Python`
+Each project ships with a **live walkthrough** (futurist dark page, hosted on GitHub Pages) and a full repo with code, business memo, and reproducibility instructions.
+
+* **[dbt Analytics Warehouse](https://github.com/Ucazin/dbt-analytics-warehouse)** · [🌐 walkthrough](https://ucazin.github.io/dbt-analytics-warehouse/) — Production-shaped dbt project on DuckDB. **5 sources → 5 staging → 3 intermediate → 6 marts → 1 snapshot, 70 tests, 2 exposures.** Portable to Snowflake/BigQuery with a profile change. `dbt · DuckDB · SQL · Python`
+
+* **[A/B Testing Framework](https://github.com/Ucazin/ab-testing-framework)** · [🌐 walkthrough](https://ucazin.github.io/ab-testing-framework/) — End-to-end experimentation toolkit on a 60k-user synthetic experiment: **power analysis, SRM (chi²), CUPED, Benjamini-Hochberg**, auto-generated decision doc. **Headline:** CVR +9.4% (p=0.0068), revenue +$0.225/visitor (p=0.0097), 0/8 segments significant after BH → ~$984k annualized uplift. `Python · statsmodels · scipy`
+
+* **[SaaS MRR, Churn & Cohort Analytics](https://github.com/Ucazin/saas-mrr-churn-analytics)** · [🌐 walkthrough](https://ucazin.github.io/saas-mrr-churn-analytics/) — Subscription analytics on a synthetic SaaS dataset (5,000 customers · 36 months · 3 tiers). MRR waterfall, NRR/GRR cohorts, Kaplan-Meier survival, LTV/CAC. **Headline:** ending MRR **$1.99M**, median **NRR 85.2%**, 12-month survival **53.9%**, **LTV/CAC up to 17.0×**. Churn concentrates in months 3–6. `Python · pandas · matplotlib`
+
+* **[Olist E-commerce SQL Analytics](https://github.com/Ucazin/olist-ecommerce-analytics)** · [🌐 walkthrough](https://ucazin.github.io/olist-ecommerce-analytics/) — End-to-end SQL on Olist-shaped Brazilian e-commerce (**96,497 orders**, 92,315 customers, **R$ 14.7M** revenue). DuckDB warehouse, Kimball star, 10 business questions. **Headline:** late deliveries collapse review score to **1.64/5 vs 3.98**; bottleneck is carrier transit (25.6d) not seller dispatch (8d); **R$ 560k** revenue at risk. `SQL · DuckDB · Python`
+
+* **[NYC 311 Operational Dashboard](https://github.com/Ucazin/nyc-311-dashboard)** · [🌐 walkthrough](https://ucazin.github.io/nyc-311-dashboard/) — Operational analytics on live NYC Open Data (100k 311 requests via Socrata API). DuckDB warehouse, 8 charts, interactive Plotly map, 4-page Power BI wireframe with DAX. **Headline:** **7.5pp equity gap** between Staten Island (85.0% SLA) and the Bronx (77.5%) — slower *and* worse in the same borough. `Python · requests · DuckDB · Plotly · Power BI`
+
+* **[RFM Customer Segmentation](https://github.com/Ucazin/rfm-customer-segmentation)** · [🌐 walkthrough](https://ucazin.github.io/rfm-customer-segmentation/) — Customer segmentation on UCI Online Retail II (**805,549 transactions**, 5,878 customers, **£17.7M** revenue). RFM quintile scoring + 11 canonical segments + k-means parity + per-segment marketing playbook. **Headline:** **49.5% of revenue** from 609 Champions; quarterly playbook **$13.7k cost → $144.7k projected = 10.5× blended ROI**. `Python · scikit-learn · DuckDB · SQL`
 
 ---
 
@@ -120,7 +129,7 @@ Data Analyst turning raw data into business decisions. SQL · Python · Power BI
   <a href="mailto:contato@bmai.space" target="_blank">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/lucca-mariz" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/Ucazin" target="_blank">
