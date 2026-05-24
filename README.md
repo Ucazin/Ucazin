@@ -140,3 +140,63 @@ Each project ships with a **live walkthrough** (futurist dark page, hosted on Gi
 ---
 
 *"In data we trust — but only after we test it."*
+
+<!--START_SECTION:github-pulse-->
+### 📡 GitHub Pulse
+
+Adaptive section generated from GitHub repo metadata. Last update: `2026-05-24 19:26 UTC`.
+
+* Public/source repos tracked: **12**
+* Detected languages: **7**
+* Most recent repo update: **2026-05-24**
+
+### 🧰 Stack detected from repositories
+
+<div>
+  <img src="https://img.shields.io/badge/HTML-86.4%25-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-7%25-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter%20Notebook-5.9%25-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-0.4%25-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-0.3%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Makefile-0%25-427819?style=for-the-badge&logo=gnu&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dockerfile-0%25-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</div>
+
+### 🧬 Language weight
+
+| Language | Share | Bytes |
+|---|---:|---:|
+| HTML | 86.4% | 8.1M |
+| Python | 7.0% | 657.3k |
+| Jupyter Notebook | 5.9% | 550.3k |
+| CSS | 0.4% | 38.0k |
+| JavaScript | 0.3% | 31.1k |
+| Makefile | 0.0% | 1.4k |
+| Dockerfile | 0.0% | 1.0k |
+
+### 🔎 Tools inferred from repos
+
+`DuckDB` · `Plotly` · `Power BI` · `dbt` · `pandas` · `scikit-learn`
+
+### ⚡ Most active projects
+
+* **[MatrixLens](https://github.com/Ucazin/MatrixLens)** — Linear algebra, solved step by step in your browser — powered by the ednarzinho symbolic engine via Pyodide. `Python` · ⭐ 0 · updated `2026-05-24` · `education` · `linear-algebra` · `matrix` · `pyodide`
+* **[estudo-de-caso-testes](https://github.com/Ucazin/estudo-de-caso-testes)** — No description yet. `Python` · ⭐ 0 · updated `2026-05-24`
+* **[bigquery-airflow-dbt-warehouse](https://github.com/Ucazin/bigquery-airflow-dbt-warehouse)** — Cloud-native analytics warehouse — dbt on BigQuery thelook_ecommerce + Airflow (Astronomer Cosmos) orchestration + GitHub Actions CI. Kimball star schema, 21 models, 88… `Python` · ⭐ 0 · updated `2026-05-24` · `airflow` · `analytics-engineering` · `astronomer-cosmos` · `bigquery`
+* **[marketing-funnel-streamlit](https://github.com/Ucazin/marketing-funnel-streamlit)** — Multi-touch attribution + funnel + CAC/ROAS Streamlit dashboard. Synthetic 75k users / 1,143 paid / $172k spend / 5 channels — finds paid_social structurally unprofitabl… `Python` · ⭐ 0 · updated `2026-05-23` · `attribution` · `cac` · `dashboard` · `data-visualization`
+* **[rfm-customer-segmentation](https://github.com/Ucazin/rfm-customer-segmentation)** · [walkthrough](https://ucazin.github.io/rfm-customer-segmentation/) — Customer segmentation on the UCI Online Retail II dataset (805,549 transactions, 5,878 customers, £17.7M revenue): RFM quintile scoring, 11-segment rule-based classifica… `Python` · ⭐ 0 · updated `2026-05-22` · `clustering` · `customer-segmentation` · `duckdb` · `ecommerce-analytics`
+* **[nyc-311-dashboard](https://github.com/Ucazin/nyc-311-dashboard)** · [walkthrough](https://ucazin.github.io/nyc-311-dashboard/) — Operational analytics on NYC 311 service requests — Python + DuckDB pipeline, SLA + equity analysis across 5 boroughs, Power BI dashboard spec. `HTML` · ⭐ 0 · updated `2026-05-22` · `dashboard` · `data-analysis` · `duckdb` · `geospatial`
+
+### 🌟 Featured projects — auto-ranked
+
+Ranked by recent activity, repo completeness, homepage/walkthrough presence, topics, stars, and language diversity — not by a manually fixed list.
+
+* **[nyc-311-dashboard](https://github.com/Ucazin/nyc-311-dashboard)** · [walkthrough](https://ucazin.github.io/nyc-311-dashboard/) — Operational analytics on NYC 311 service requests — Python + DuckDB pipeline, SLA + equity analysis across 5 boroughs, Power BI dashboard spec. `HTML` · ⭐ 0 · updated `2026-05-22` · `dashboard` · `data-analysis` · `duckdb` · `geospatial`
+* **[olist-ecommerce-analytics](https://github.com/Ucazin/olist-ecommerce-analytics)** · [walkthrough](https://ucazin.github.io/olist-ecommerce-analytics/) — End-to-end SQL analytics on a synthetic Olist e-commerce dataset — DuckDB warehouse, Kimball star schema, 10 business-question queries, Python chart deck. `Python` · ⭐ 0 · updated `2026-05-22` · `analytics-engineering` · `data-analytics` · `duckdb` · `ecommerce`
+* **[dbt-analytics-warehouse](https://github.com/Ucazin/dbt-analytics-warehouse)** · [walkthrough](https://ucazin.github.io/dbt-analytics-warehouse/) — Production-shaped dbt project on DuckDB - synthetic e-commerce + SaaS data modeled into a Kimball warehouse with 70 tests, snapshots, exposures, and reusable macros. `Python` · ⭐ 0 · updated `2026-05-22` · `analytics-engineering` · `data-engineering` · `data-modeling` · `data-quality`
+* **[rfm-customer-segmentation](https://github.com/Ucazin/rfm-customer-segmentation)** · [walkthrough](https://ucazin.github.io/rfm-customer-segmentation/) — Customer segmentation on the UCI Online Retail II dataset (805,549 transactions, 5,878 customers, £17.7M revenue): RFM quintile scoring, 11-segment rule-based classifica… `Python` · ⭐ 0 · updated `2026-05-22` · `clustering` · `customer-segmentation` · `duckdb` · `ecommerce-analytics`
+* **[ab-testing-framework](https://github.com/Ucazin/ab-testing-framework)** · [walkthrough](https://ucazin.github.io/ab-testing-framework/) — End-to-end A/B testing framework — power analysis, SRM checks, CUPED variance reduction, BH-corrected segment breakouts, and an auto-generated ship/no-ship decision doc.… `Python` · ⭐ 0 · updated `2026-05-22` · `ab-testing` · `bootstrap` · `causal-inference` · `cuped`
+* **[saas-mrr-churn-analytics](https://github.com/Ucazin/saas-mrr-churn-analytics)** · [walkthrough](https://ucazin.github.io/saas-mrr-churn-analytics/) — Subscription analytics on a synthetic SaaS dataset — 5,000 customers, 36 monthly billing snapshots, MRR waterfall, NRR/GRR cohorts, Kaplan-Meier survival, LTV/CAC by tie… `Python` · ⭐ 0 · updated `2026-05-22` · `churn-analysis` · `cohort-analysis` · `data-analytics` · `kaplan-meier`
+
+<sub>This block is regenerated by GitHub Actions. New Python, JavaScript, TypeScript, SQL, notebook, or web projects will appear automatically after the next run.</sub>
+<!--END_SECTION:github-pulse-->
