@@ -1,0 +1,15 @@
+# Generated GitHub/profile outputs
+profile-summary-card-output/** linguist-generated
+github-metrics-languages* linguist-generated
+
+# Common generated/build folders
+docs/** linguist-generated
+dist/** linguist-generated
+build/** linguist-generated
+site/** linguist-generated
+public/** linguist-generated
+
+# Generated reports / exported dashboards
+reports/**/*.html linguist-generated
+outputs/**/*.html linguist-generated
+htmlcov/** linguist-generated
