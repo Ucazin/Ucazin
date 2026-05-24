@@ -1,0 +1,61 @@
+{
+  "username": "Ucazin",
+  "profile_repo": "Ucazin",
+  "max_active_projects": 6,
+  "max_featured_projects": 6,
+  "include_forks": false,
+  "include_archived": false,
+  "exclude_repos": [
+    "Ucazin"
+  ],
+  "featured_topic_boost": [
+    "data-analytics",
+    "data-analysis",
+    "analytics",
+    "data-science",
+    "python",
+    "sql",
+    "duckdb",
+    "dbt",
+    "dashboard",
+    "machine-learning",
+    "javascript",
+    "typescript",
+    "react",
+    "nextjs",
+    "nodejs"
+  ],
+  "known_tools": {
+    "dbt": [
+      "dbt"
+    ],
+    "DuckDB": [
+      "duckdb"
+    ],
+    "Power BI": [
+      "power-bi",
+      "powerbi"
+    ],
+    "Plotly": [
+      "plotly"
+    ],
+    "pandas": [
+      "pandas"
+    ],
+    "scikit-learn": [
+      "scikit-learn",
+      "sklearn"
+    ],
+    "React": [
+      "react"
+    ],
+    "Next.js": [
+      "nextjs",
+      "next-js"
+    ],
+    "Node.js": [
+      "nodejs",
+      "node-js"
+    ]
+  }
+}

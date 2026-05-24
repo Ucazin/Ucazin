@@ -1,0 +1,48 @@
+name: Update adaptive GitHub profile
+
+on:
+  workflow_dispatch:
+  schedule:
+    # Runs every day at 09:17 UTC. Change if you want.
+    - cron: "17 9 * * *"
+  push:
+    paths:
+      - "README.md"
+      - "profile_config.json"
+      - "scripts/update_profile.py"
+      - ".github/workflows/update-profile.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  update-profile:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout profile repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Generate adaptive README block
+        run: python scripts/update_profile.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_USERNAME: Ucazin
+
+      - name: Commit README changes
+        shell: bash
+        run: |
+          if [[ -n "$(git status --porcelain README.md)" ]]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add README.md
+            git commit -m "chore(profile): update adaptive GitHub pulse"
+            git push
+          else
+            echo "README already up to date."
+          fi
