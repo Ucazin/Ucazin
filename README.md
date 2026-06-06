@@ -144,18 +144,18 @@ Each project ships with a **live walkthrough** (futurist dark page, hosted on Gi
 <!--START_SECTION:github-pulse-->
 ### 📡 GitHub Pulse
 
-Adaptive section generated from GitHub repo metadata. Last update: `2026-06-05 12:20 UTC`.
+Adaptive section generated from GitHub repo metadata. Last update: `2026-06-06 11:00 UTC`.
 
-* Public/source repos tracked: **12**
+* Public/source repos tracked: **13**
 * Detected languages: **7**
-* Most recent repo update: **2026-05-26**
+* Most recent repo update: **2026-06-05**
 
 ### 🧰 Stack detected from repositories
 
 <div>
-  <img src="https://img.shields.io/badge/HTML-86%25-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-7.4%25-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter%20Notebook-6.3%25-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML-85.4%25-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-8%25-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter%20Notebook-6.2%25-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS-0.3%25-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-0.1%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Makefile-0%25-427819?style=for-the-badge&logo=gnu&logoColor=white" />
@@ -166,9 +166,9 @@ Adaptive section generated from GitHub repo metadata. Last update: `2026-06-05 1
 
 | Language | Share | Bytes |
 |---|---:|---:|
-| HTML | 86.0% | 8.1M |
-| Python | 7.4% | 696.5k |
-| Jupyter Notebook | 6.3% | 591.6k |
+| HTML | 85.4% | 8.1M |
+| Python | 8.0% | 757.5k |
+| Jupyter Notebook | 6.2% | 591.6k |
 | CSS | 0.3% | 25.0k |
 | JavaScript | 0.1% | 6.2k |
 | Makefile | 0.0% | 1.4k |
@@ -180,12 +180,12 @@ Adaptive section generated from GitHub repo metadata. Last update: `2026-06-05 1
 
 ### ⚡ Most active projects
 
+* **[trabalho-saf](https://github.com/Ucazin/trabalho-saf)** — No description yet. `Python` · ⭐ 0 · updated `2026-06-05`
 * **[ednarzinho](https://github.com/Ucazin/ednarzinho)** — Biblioteca Python didatica de matrizes: determinante, inversa e geracao de notebook .ipynb. pip install ednarzinho `Python` · ⭐ 0 · updated `2026-05-26`
 * **[estudo-de-caso-testes](https://github.com/Ucazin/estudo-de-caso-testes)** — No description yet. `Python` · ⭐ 0 · updated `2026-05-24`
 * **[bigquery-airflow-dbt-warehouse](https://github.com/Ucazin/bigquery-airflow-dbt-warehouse)** — Cloud-native analytics warehouse — dbt on BigQuery thelook_ecommerce + Airflow (Astronomer Cosmos) orchestration + GitHub Actions CI. Kimball star schema, 21 models, 88… `Python` · ⭐ 0 · updated `2026-05-24` · `airflow` · `analytics-engineering` · `astronomer-cosmos` · `bigquery`
 * **[marketing-funnel-streamlit](https://github.com/Ucazin/marketing-funnel-streamlit)** — Multi-touch attribution + funnel + CAC/ROAS Streamlit dashboard. Synthetic 75k users / 1,143 paid / $172k spend / 5 channels — finds paid_social structurally unprofitabl… `Python` · ⭐ 0 · updated `2026-05-23` · `attribution` · `cac` · `dashboard` · `data-visualization`
 * **[rfm-customer-segmentation](https://github.com/Ucazin/rfm-customer-segmentation)** · [walkthrough](https://ucazin.github.io/rfm-customer-segmentation/) — Customer segmentation on the UCI Online Retail II dataset (805,549 transactions, 5,878 customers, £17.7M revenue): RFM quintile scoring, 11-segment rule-based classifica… `Python` · ⭐ 0 · updated `2026-05-22` · `clustering` · `customer-segmentation` · `duckdb` · `ecommerce-analytics`
-* **[nyc-311-dashboard](https://github.com/Ucazin/nyc-311-dashboard)** · [walkthrough](https://ucazin.github.io/nyc-311-dashboard/) — Operational analytics on NYC 311 service requests — Python + DuckDB pipeline, SLA + equity analysis across 5 boroughs, Power BI dashboard spec. `HTML` · ⭐ 0 · updated `2026-05-22` · `dashboard` · `data-analysis` · `duckdb` · `geospatial`
 
 ### 🌟 Featured projects — auto-ranked
 
