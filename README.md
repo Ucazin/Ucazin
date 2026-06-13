@@ -144,7 +144,7 @@ Each project ships with a **live walkthrough** (futurist dark page, hosted on Gi
 <!--START_SECTION:github-pulse-->
 ### 📡 GitHub Pulse
 
-Adaptive section generated from GitHub repo metadata. Last update: `2026-06-12 12:33 UTC`.
+Adaptive section generated from GitHub repo metadata. Last update: `2026-06-13 11:25 UTC`.
 
 * Public/source repos tracked: **14**
 * Detected languages: **7**
@@ -153,11 +153,11 @@ Adaptive section generated from GitHub repo metadata. Last update: `2026-06-12 1
 ### 🧰 Stack detected from repositories
 
 <div>
-  <img src="https://img.shields.io/badge/HTML-85.4%25-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-8%25-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML-85.1%25-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-7.9%25-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Jupyter%20Notebook-6.2%25-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-0.3%25-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-0.1%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/CSS-0.4%25-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-0.3%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Makefile-0%25-427819?style=for-the-badge&logo=gnu&logoColor=white" />
   <img src="https://img.shields.io/badge/Dockerfile-0%25-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </div>
@@ -166,11 +166,11 @@ Adaptive section generated from GitHub repo metadata. Last update: `2026-06-12 1
 
 | Language | Share | Bytes |
 |---|---:|---:|
-| HTML | 85.4% | 8.1M |
-| Python | 8.0% | 757.5k |
+| HTML | 85.1% | 8.1M |
+| Python | 7.9% | 757.5k |
 | Jupyter Notebook | 6.2% | 591.6k |
-| CSS | 0.3% | 25.0k |
-| JavaScript | 0.1% | 6.2k |
+| CSS | 0.4% | 38.4k |
+| JavaScript | 0.3% | 31.9k |
 | Makefile | 0.0% | 1.4k |
 | Dockerfile | 0.0% | 1.0k |
 
@@ -180,7 +180,7 @@ Adaptive section generated from GitHub repo metadata. Last update: `2026-06-12 1
 
 ### ⚡ Most active projects
 
-* **[celebracoes-alema](https://github.com/Ucazin/celebracoes-alema)** — No description yet. `Mixed` · ⭐ 0 · updated `2026-06-12`
+* **[celebracoes-alema](https://github.com/Ucazin/celebracoes-alema)** — No description yet. `JavaScript` · ⭐ 0 · updated `2026-06-12`
 * **[trabalho-saf](https://github.com/Ucazin/trabalho-saf)** — No description yet. `Python` · ⭐ 0 · updated `2026-06-05`
 * **[ednarzinho](https://github.com/Ucazin/ednarzinho)** — Biblioteca Python didatica de matrizes: determinante, inversa e geracao de notebook .ipynb. pip install ednarzinho `Python` · ⭐ 0 · updated `2026-05-26`
 * **[estudo-de-caso-testes](https://github.com/Ucazin/estudo-de-caso-testes)** — No description yet. `Python` · ⭐ 0 · updated `2026-05-24`
