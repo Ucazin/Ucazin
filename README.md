@@ -144,11 +144,11 @@ Each project ships with a **live walkthrough** (futurist dark page, hosted on Gi
 <!--START_SECTION:github-pulse-->
 ### 📡 GitHub Pulse
 
-Adaptive section generated from GitHub repo metadata. Last update: `2026-06-14 11:37 UTC`.
+Adaptive section generated from GitHub repo metadata. Last update: `2026-06-15 15:25 UTC`.
 
 * Public/source repos tracked: **14**
 * Detected languages: **7**
-* Most recent repo update: **2026-06-12**
+* Most recent repo update: **2026-06-14**
 
 ### 🧰 Stack detected from repositories
 
@@ -180,12 +180,12 @@ Adaptive section generated from GitHub repo metadata. Last update: `2026-06-14 1
 
 ### ⚡ Most active projects
 
+* **[portfolio-hub](https://github.com/Ucazin/portfolio-hub)** — Repositorio de projetos academicos e pessoais - Ciencia de Dados e Machine Learning - CEUB `HTML` · ⭐ 0 · updated `2026-06-14`
 * **[celebracoes-alema](https://github.com/Ucazin/celebracoes-alema)** — No description yet. `JavaScript` · ⭐ 0 · updated `2026-06-12`
 * **[trabalho-saf](https://github.com/Ucazin/trabalho-saf)** — No description yet. `Python` · ⭐ 0 · updated `2026-06-05`
 * **[ednarzinho](https://github.com/Ucazin/ednarzinho)** — Biblioteca Python didatica de matrizes: determinante, inversa e geracao de notebook .ipynb. pip install ednarzinho `Python` · ⭐ 0 · updated `2026-05-26`
 * **[estudo-de-caso-testes](https://github.com/Ucazin/estudo-de-caso-testes)** — No description yet. `Python` · ⭐ 0 · updated `2026-05-24`
 * **[bigquery-airflow-dbt-warehouse](https://github.com/Ucazin/bigquery-airflow-dbt-warehouse)** — Cloud-native analytics warehouse — dbt on BigQuery thelook_ecommerce + Airflow (Astronomer Cosmos) orchestration + GitHub Actions CI. Kimball star schema, 21 models, 88… `Python` · ⭐ 0 · updated `2026-05-24` · `airflow` · `analytics-engineering` · `astronomer-cosmos` · `bigquery`
-* **[marketing-funnel-streamlit](https://github.com/Ucazin/marketing-funnel-streamlit)** — Multi-touch attribution + funnel + CAC/ROAS Streamlit dashboard. Synthetic 75k users / 1,143 paid / $172k spend / 5 channels — finds paid_social structurally unprofitabl… `Python` · ⭐ 0 · updated `2026-05-23` · `attribution` · `cac` · `dashboard` · `data-visualization`
 
 ### 🌟 Featured projects — auto-ranked
 
