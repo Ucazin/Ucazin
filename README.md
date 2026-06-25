@@ -144,18 +144,18 @@ Each project ships with a **live walkthrough** (futurist dark page, hosted on Gi
 <!--START_SECTION:github-pulse-->
 ### 📡 GitHub Pulse
 
-Adaptive section generated from GitHub repo metadata. Last update: `2026-06-24 12:02 UTC`.
+Adaptive section generated from GitHub repo metadata. Last update: `2026-06-25 11:57 UTC`.
 
 * Public/source repos tracked: **15**
 * Detected languages: **7**
-* Most recent repo update: **2026-06-24**
+* Most recent repo update: **2026-06-25**
 
 ### 🧰 Stack detected from repositories
 
 <div>
-  <img src="https://img.shields.io/badge/HTML-84.6%25-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter%20Notebook-8.3%25-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-6.4%25-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML-83.5%25-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter%20Notebook-9.5%25-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-6.3%25-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS-0.3%25-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-0.3%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Makefile-0%25-427819?style=for-the-badge&logo=gnu&logoColor=white" />
@@ -166,9 +166,9 @@ Adaptive section generated from GitHub repo metadata. Last update: `2026-06-24 1
 
 | Language | Share | Bytes |
 |---|---:|---:|
-| HTML | 84.6% | 10.0M |
-| Jupyter Notebook | 8.3% | 980.6k |
-| Python | 6.4% | 757.5k |
+| HTML | 83.5% | 10.0M |
+| Jupyter Notebook | 9.5% | 1.1M |
+| Python | 6.3% | 757.5k |
 | CSS | 0.3% | 38.4k |
 | JavaScript | 0.3% | 31.9k |
 | Makefile | 0.0% | 1.4k |
@@ -180,7 +180,7 @@ Adaptive section generated from GitHub repo metadata. Last update: `2026-06-24 1
 
 ### ⚡ Most active projects
 
-* **[motogp-analise-exploratoria](https://github.com/Ucazin/motogp-analise-exploratoria)** — EDA da historia do Mundial de MotoGP (1949-2022) - Projeto final de Introducao a Ciencia de Dados (CEUB) `HTML` · ⭐ 0 · updated `2026-06-24`
+* **[ouvdf-analise-exploratoria](https://github.com/Ucazin/ouvdf-analise-exploratoria)** — Análise exploratória de 2,15 milhões de manifestações da Ouvidoria do DF (OUV-DF, 2016–2025) — Projeto Final de Introdução à Ciência de Dados (CEUB). `HTML` · ⭐ 0 · updated `2026-06-25`
 * **[portfolio-hub](https://github.com/Ucazin/portfolio-hub)** — Repositorio de projetos academicos e pessoais - Ciencia de Dados e Machine Learning - CEUB `HTML` · ⭐ 0 · updated `2026-06-21`
 * **[celebracoes-alema](https://github.com/Ucazin/celebracoes-alema)** — No description yet. `JavaScript` · ⭐ 0 · updated `2026-06-12`
 * **[trabalho-saf](https://github.com/Ucazin/trabalho-saf)** — No description yet. `Python` · ⭐ 0 · updated `2026-06-05`
