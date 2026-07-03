@@ -144,35 +144,39 @@ Each project ships with a **live walkthrough** (futurist dark page, hosted on Gi
 <!--START_SECTION:github-pulse-->
 ### 📡 GitHub Pulse
 
-Adaptive section generated from GitHub repo metadata. Last update: `2026-07-02 11:44 UTC`.
+Adaptive section generated from GitHub repo metadata. Last update: `2026-07-03 11:42 UTC`.
 
-* Public/source repos tracked: **15**
-* Detected languages: **7**
-* Most recent repo update: **2026-06-25**
+* Public/source repos tracked: **16**
+* Detected languages: **16**
+* Most recent repo update: **2026-07-02**
 
 ### 🧰 Stack detected from repositories
 
 <div>
-  <img src="https://img.shields.io/badge/HTML-83.5%25-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter%20Notebook-9.5%25-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-6.3%25-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-0.3%25-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-0.3%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Makefile-0%25-427819?style=for-the-badge&logo=gnu&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dockerfile-0%25-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-52.9%25-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML-20%25-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-17.2%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Shell-2.6%25-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-2.5%25-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter%20Notebook-2.2%25-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/MDX-1%25-6E7681?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Svelte-0.8%25-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" />
 </div>
 
 ### 🧬 Language weight
 
 | Language | Share | Bytes |
 |---|---:|---:|
-| HTML | 83.5% | 10.0M |
-| Jupyter Notebook | 9.5% | 1.1M |
-| Python | 6.3% | 757.5k |
-| CSS | 0.3% | 38.4k |
-| JavaScript | 0.3% | 31.9k |
-| Makefile | 0.0% | 1.4k |
-| Dockerfile | 0.0% | 1.0k |
+| TypeScript | 52.9% | 27.0M |
+| HTML | 20.0% | 10.2M |
+| JavaScript | 17.2% | 8.8M |
+| Shell | 2.6% | 1.3M |
+| Python | 2.5% | 1.3M |
+| Jupyter Notebook | 2.2% | 1.1M |
+| MDX | 1.0% | 514.2k |
+| Svelte | 0.8% | 406.9k |
+| Rust | 0.3% | 158.5k |
+| PLpgSQL | 0.2% | 124.5k |
 
 ### 🔎 Tools inferred from repos
 
@@ -180,12 +184,12 @@ Adaptive section generated from GitHub repo metadata. Last update: `2026-07-02 1
 
 ### ⚡ Most active projects
 
+* **[Skills](https://github.com/Ucazin/Skills)** — No description yet. `TypeScript` · ⭐ 0 · updated `2026-07-02`
 * **[ouvdf-analise-exploratoria](https://github.com/Ucazin/ouvdf-analise-exploratoria)** — Análise exploratória de 2,15 milhões de manifestações da Ouvidoria do DF (OUV-DF, 2016–2025) — Projeto Final de Introdução à Ciência de Dados (CEUB). `HTML` · ⭐ 0 · updated `2026-06-25`
 * **[portfolio-hub](https://github.com/Ucazin/portfolio-hub)** — Repositorio de projetos academicos e pessoais - Ciencia de Dados e Machine Learning - CEUB `HTML` · ⭐ 0 · updated `2026-06-21`
 * **[celebracoes-alema](https://github.com/Ucazin/celebracoes-alema)** — No description yet. `JavaScript` · ⭐ 0 · updated `2026-06-12`
 * **[trabalho-saf](https://github.com/Ucazin/trabalho-saf)** — No description yet. `Python` · ⭐ 0 · updated `2026-06-05`
 * **[ednarzinho](https://github.com/Ucazin/ednarzinho)** — Biblioteca Python didatica de matrizes: determinante, inversa e geracao de notebook .ipynb. pip install ednarzinho `Python` · ⭐ 0 · updated `2026-05-26`
-* **[estudo-de-caso-testes](https://github.com/Ucazin/estudo-de-caso-testes)** — No description yet. `Python` · ⭐ 0 · updated `2026-05-24`
 
 ### 🌟 Featured projects — auto-ranked
 
