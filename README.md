@@ -144,7 +144,7 @@ Each project ships with a **live walkthrough** (futurist dark page, hosted on Gi
 <!--START_SECTION:github-pulse-->
 ### 📡 GitHub Pulse
 
-Adaptive section generated from GitHub repo metadata. Last update: `2026-09-09 13:45 UTC`.
+Adaptive section generated from GitHub repo metadata. Last update: `2026-09-10 13:38 UTC`.
 
 * Public/source repos tracked: **16**
 * Detected languages: **16**
@@ -196,7 +196,7 @@ Adaptive section generated from GitHub repo metadata. Last update: `2026-09-09 1
 Ranked by recent activity, repo completeness, homepage/walkthrough presence, topics, stars, and language diversity — not by a manually fixed list.
 
 * **[nyc-311-dashboard](https://github.com/Ucazin/nyc-311-dashboard)** · [walkthrough](https://ucazin.github.io/nyc-311-dashboard/) — Operational analytics on NYC 311 service requests — Python + DuckDB pipeline, SLA + equity analysis across 5 boroughs, Power BI dashboard spec. `HTML` · ⭐ 0 · updated `2026-05-22` · `dashboard` · `data-analysis` · `duckdb` · `geospatial`
-* **[olist-ecommerce-analytics](https://github.com/Ucazin/olist-ecommerce-analytics)** · [walkthrough](https://ucazin.github.io/olist-ecommerce-analytics/) — End-to-end SQL analytics on a synthetic Olist e-commerce dataset — DuckDB warehouse, Kimball star schema, 10 business-question queries, Python chart deck. `Python` · ⭐ 0 · updated `2026-05-22` · `analytics-engineering` · `data-analytics` · `duckdb` · `ecommerce`
+* **[olist-ecommerce-analytics](https://github.com/Ucazin/olist-ecommerce-analytics)** · [walkthrough](https://ucazin.github.io/olist-ecommerce-analytics/) — End-to-end SQL analytics on a synthetic Olist e-commerce dataset — DuckDB warehouse, Kimball star schema, 10 business-question queries, Python chart deck. `Python` · ⭐ 1 · updated `2026-05-22` · `analytics-engineering` · `data-analytics` · `duckdb` · `ecommerce`
 * **[dbt-analytics-warehouse](https://github.com/Ucazin/dbt-analytics-warehouse)** · [walkthrough](https://ucazin.github.io/dbt-analytics-warehouse/) — Production-shaped dbt project on DuckDB - synthetic e-commerce + SaaS data modeled into a Kimball warehouse with 70 tests, snapshots, exposures, and reusable macros. `Python` · ⭐ 0 · updated `2026-05-22` · `analytics-engineering` · `data-engineering` · `data-modeling` · `data-quality`
 * **[rfm-customer-segmentation](https://github.com/Ucazin/rfm-customer-segmentation)** · [walkthrough](https://ucazin.github.io/rfm-customer-segmentation/) — Customer segmentation on the UCI Online Retail II dataset (805,549 transactions, 5,878 customers, £17.7M revenue): RFM quintile scoring, 11-segment rule-based classifica… `Python` · ⭐ 0 · updated `2026-05-22` · `clustering` · `customer-segmentation` · `duckdb` · `ecommerce-analytics`
 * **[ab-testing-framework](https://github.com/Ucazin/ab-testing-framework)** · [walkthrough](https://ucazin.github.io/ab-testing-framework/) — End-to-end A/B testing framework — power analysis, SRM checks, CUPED variance reduction, BH-corrected segment breakouts, and an auto-generated ship/no-ship decision doc.… `Python` · ⭐ 0 · updated `2026-05-22` · `ab-testing` · `bootstrap` · `causal-inference` · `cuped`
