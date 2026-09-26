@@ -144,43 +144,39 @@ Each project ships with a **live walkthrough** (futurist dark page, hosted on Gi
 <!--START_SECTION:github-pulse-->
 ### 📡 GitHub Pulse
 
-Adaptive section generated from GitHub repo metadata. Last update: `2026-09-25 14:37 UTC`.
+Adaptive section generated from GitHub repo metadata. Last update: `2026-09-26 13:45 UTC`.
 
-* Public/source repos tracked: **16**
+* Public/source repos tracked: **8**
 * Detected languages: **16**
 * Most recent repo update: **2026-07-02**
 
 ### 🧰 Stack detected from repositories
 
 <div>
-  <img src="https://img.shields.io/badge/TypeScript-52.9%25-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML-20%25-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-17.2%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Shell-2.6%25-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-63.1%25-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-20.5%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML-5%25-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/Shell-3.1%25-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter%20Notebook-2.7%25-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-2.5%25-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter%20Notebook-2.2%25-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/MDX-1%25-6E7681?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Svelte-0.8%25-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" />
+  <img src="https://img.shields.io/badge/MDX-1.2%25-6E7681?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Svelte-1%25-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" />
 </div>
 
 ### 🧬 Language weight
 
 | Language | Share | Bytes |
 |---|---:|---:|
-| TypeScript | 52.9% | 27.0M |
-| HTML | 20.0% | 10.2M |
-| JavaScript | 17.2% | 8.8M |
-| Shell | 2.6% | 1.3M |
-| Python | 2.5% | 1.3M |
-| Jupyter Notebook | 2.2% | 1.1M |
-| MDX | 1.0% | 514.2k |
-| Svelte | 0.8% | 406.9k |
-| Rust | 0.3% | 158.5k |
-| PLpgSQL | 0.2% | 124.5k |
-
-### 🔎 Tools inferred from repos
-
-`DuckDB` · `Plotly` · `Power BI` · `dbt` · `pandas` · `scikit-learn`
+| TypeScript | 63.1% | 27.0M |
+| JavaScript | 20.5% | 8.8M |
+| HTML | 5.0% | 2.1M |
+| Shell | 3.1% | 1.3M |
+| Jupyter Notebook | 2.7% | 1.1M |
+| Python | 2.5% | 1.1M |
+| MDX | 1.2% | 514.2k |
+| Svelte | 1.0% | 406.9k |
+| Rust | 0.4% | 158.5k |
+| PLpgSQL | 0.3% | 124.5k |
 
 ### ⚡ Most active projects
 
@@ -195,12 +191,12 @@ Adaptive section generated from GitHub repo metadata. Last update: `2026-09-25 1
 
 Ranked by recent activity, repo completeness, homepage/walkthrough presence, topics, stars, and language diversity — not by a manually fixed list.
 
-* **[nyc-311-dashboard](https://github.com/Ucazin/nyc-311-dashboard)** · [walkthrough](https://ucazin.github.io/nyc-311-dashboard/) — Operational analytics on NYC 311 service requests — Python + DuckDB pipeline, SLA + equity analysis across 5 boroughs, Power BI dashboard spec. `HTML` · ⭐ 0 · updated `2026-05-22` · `dashboard` · `data-analysis` · `duckdb` · `geospatial`
-* **[olist-ecommerce-analytics](https://github.com/Ucazin/olist-ecommerce-analytics)** · [walkthrough](https://ucazin.github.io/olist-ecommerce-analytics/) — End-to-end SQL analytics on a synthetic Olist e-commerce dataset — DuckDB warehouse, Kimball star schema, 10 business-question queries, Python chart deck. `Python` · ⭐ 1 · updated `2026-05-22` · `analytics-engineering` · `data-analytics` · `duckdb` · `ecommerce`
-* **[dbt-analytics-warehouse](https://github.com/Ucazin/dbt-analytics-warehouse)** · [walkthrough](https://ucazin.github.io/dbt-analytics-warehouse/) — Production-shaped dbt project on DuckDB - synthetic e-commerce + SaaS data modeled into a Kimball warehouse with 70 tests, snapshots, exposures, and reusable macros. `Python` · ⭐ 0 · updated `2026-05-22` · `analytics-engineering` · `data-engineering` · `data-modeling` · `data-quality`
-* **[rfm-customer-segmentation](https://github.com/Ucazin/rfm-customer-segmentation)** · [walkthrough](https://ucazin.github.io/rfm-customer-segmentation/) — Customer segmentation on the UCI Online Retail II dataset (805,549 transactions, 5,878 customers, £17.7M revenue): RFM quintile scoring, 11-segment rule-based classifica… `Python` · ⭐ 0 · updated `2026-05-22` · `clustering` · `customer-segmentation` · `duckdb` · `ecommerce-analytics`
-* **[ab-testing-framework](https://github.com/Ucazin/ab-testing-framework)** · [walkthrough](https://ucazin.github.io/ab-testing-framework/) — End-to-end A/B testing framework — power analysis, SRM checks, CUPED variance reduction, BH-corrected segment breakouts, and an auto-generated ship/no-ship decision doc.… `Python` · ⭐ 0 · updated `2026-05-22` · `ab-testing` · `bootstrap` · `causal-inference` · `cuped`
-* **[saas-mrr-churn-analytics](https://github.com/Ucazin/saas-mrr-churn-analytics)** · [walkthrough](https://ucazin.github.io/saas-mrr-churn-analytics/) — Subscription analytics on a synthetic SaaS dataset — 5,000 customers, 36 monthly billing snapshots, MRR waterfall, NRR/GRR cohorts, Kaplan-Meier survival, LTV/CAC by tie… `Python` · ⭐ 0 · updated `2026-05-22` · `churn-analysis` · `cohort-analysis` · `data-analytics` · `kaplan-meier`
+* **[portfolio-hub](https://github.com/Ucazin/portfolio-hub)** — Repositorio de projetos academicos e pessoais - Ciencia de Dados e Machine Learning - CEUB `HTML` · ⭐ 0 · updated `2026-06-21`
+* **[ouvdf-analise-exploratoria](https://github.com/Ucazin/ouvdf-analise-exploratoria)** — Análise exploratória de 2,15 milhões de manifestações da Ouvidoria do DF (OUV-DF, 2016–2025) — Projeto Final de Introdução à Ciência de Dados (CEUB). `HTML` · ⭐ 0 · updated `2026-06-25`
+* **[Skills](https://github.com/Ucazin/Skills)** — No description yet. `TypeScript` · ⭐ 0 · updated `2026-07-02`
+* **[ednarzinho](https://github.com/Ucazin/ednarzinho)** — Biblioteca Python didatica de matrizes: determinante, inversa e geracao de notebook .ipynb. pip install ednarzinho `Python` · ⭐ 0 · updated `2026-05-26`
+* **[analise-vgsales](https://github.com/Ucazin/analise-vgsales)** — Análise de vendas de videogames (vgsales) — trabalho de Introdução à Ciência de Dados com 7 perguntas e 7 gráficos em Jupyter Notebook `Jupyter Notebook` · ⭐ 0 · updated `2026-05-21`
+* **[celebracoes-alema](https://github.com/Ucazin/celebracoes-alema)** — No description yet. `JavaScript` · ⭐ 0 · updated `2026-06-12`
 
 <sub>This block is regenerated by GitHub Actions. New Python, JavaScript, TypeScript, SQL, notebook, or web projects will appear automatically after the next run.</sub>
 <!--END_SECTION:github-pulse-->
