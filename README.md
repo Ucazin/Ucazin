@@ -144,59 +144,59 @@ Each project ships with a **live walkthrough** (futurist dark page, hosted on Gi
 <!--START_SECTION:github-pulse-->
 ### 📡 GitHub Pulse
 
-Adaptive section generated from GitHub repo metadata. Last update: `2026-09-28 17:41 UTC`.
+Adaptive section generated from GitHub repo metadata. Last update: `2026-09-29 15:56 UTC`.
 
-* Public/source repos tracked: **8**
+* Public/source repos tracked: **9**
 * Detected languages: **16**
-* Most recent repo update: **2026-07-02**
+* Most recent repo update: **2026-09-28**
 
 ### 🧰 Stack detected from repositories
 
 <div>
-  <img src="https://img.shields.io/badge/TypeScript-63.1%25-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-20.5%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML-5%25-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-62.8%25-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-20.4%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML-5.1%25-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/Shell-3.1%25-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter%20Notebook-2.7%25-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-2.5%25-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-2.9%25-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter%20Notebook-2.6%25-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
   <img src="https://img.shields.io/badge/MDX-1.2%25-6E7681?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Svelte-1%25-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" />
+  <img src="https://img.shields.io/badge/Svelte-0.9%25-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" />
 </div>
 
 ### 🧬 Language weight
 
 | Language | Share | Bytes |
 |---|---:|---:|
-| TypeScript | 63.1% | 27.0M |
-| JavaScript | 20.5% | 8.8M |
-| HTML | 5.0% | 2.1M |
+| TypeScript | 62.8% | 27.0M |
+| JavaScript | 20.4% | 8.8M |
+| HTML | 5.1% | 2.2M |
 | Shell | 3.1% | 1.3M |
-| Jupyter Notebook | 2.7% | 1.1M |
-| Python | 2.5% | 1.1M |
+| Python | 2.9% | 1.3M |
+| Jupyter Notebook | 2.6% | 1.1M |
 | MDX | 1.2% | 514.2k |
-| Svelte | 1.0% | 406.9k |
+| Svelte | 0.9% | 406.9k |
 | Rust | 0.4% | 158.5k |
 | PLpgSQL | 0.3% | 124.5k |
 
 ### ⚡ Most active projects
 
+* **[voxa](https://github.com/Ucazin/voxa)** — No description yet. `Python` · ⭐ 0 · updated `2026-09-28`
 * **[Skills](https://github.com/Ucazin/Skills)** — No description yet. `TypeScript` · ⭐ 0 · updated `2026-07-02`
 * **[ouvdf-analise-exploratoria](https://github.com/Ucazin/ouvdf-analise-exploratoria)** — Análise exploratória de 2,15 milhões de manifestações da Ouvidoria do DF (OUV-DF, 2016–2025) — Projeto Final de Introdução à Ciência de Dados (CEUB). `HTML` · ⭐ 0 · updated `2026-06-25`
 * **[portfolio-hub](https://github.com/Ucazin/portfolio-hub)** — Repositorio de projetos academicos e pessoais - Ciencia de Dados e Machine Learning - CEUB `HTML` · ⭐ 0 · updated `2026-06-21`
 * **[celebracoes-alema](https://github.com/Ucazin/celebracoes-alema)** — No description yet. `JavaScript` · ⭐ 0 · updated `2026-06-12`
 * **[trabalho-saf](https://github.com/Ucazin/trabalho-saf)** — No description yet. `Python` · ⭐ 0 · updated `2026-06-05`
-* **[ednarzinho](https://github.com/Ucazin/ednarzinho)** — Biblioteca Python didatica de matrizes: determinante, inversa e geracao de notebook .ipynb. pip install ednarzinho `Python` · ⭐ 0 · updated `2026-05-26`
 
 ### 🌟 Featured projects — auto-ranked
 
 Ranked by recent activity, repo completeness, homepage/walkthrough presence, topics, stars, and language diversity — not by a manually fixed list.
 
+* **[voxa](https://github.com/Ucazin/voxa)** — No description yet. `Python` · ⭐ 0 · updated `2026-09-28`
 * **[portfolio-hub](https://github.com/Ucazin/portfolio-hub)** — Repositorio de projetos academicos e pessoais - Ciencia de Dados e Machine Learning - CEUB `HTML` · ⭐ 0 · updated `2026-06-21`
 * **[ouvdf-analise-exploratoria](https://github.com/Ucazin/ouvdf-analise-exploratoria)** — Análise exploratória de 2,15 milhões de manifestações da Ouvidoria do DF (OUV-DF, 2016–2025) — Projeto Final de Introdução à Ciência de Dados (CEUB). `HTML` · ⭐ 0 · updated `2026-06-25`
 * **[Skills](https://github.com/Ucazin/Skills)** — No description yet. `TypeScript` · ⭐ 0 · updated `2026-07-02`
 * **[ednarzinho](https://github.com/Ucazin/ednarzinho)** — Biblioteca Python didatica de matrizes: determinante, inversa e geracao de notebook .ipynb. pip install ednarzinho `Python` · ⭐ 0 · updated `2026-05-26`
 * **[analise-vgsales](https://github.com/Ucazin/analise-vgsales)** — Análise de vendas de videogames (vgsales) — trabalho de Introdução à Ciência de Dados com 7 perguntas e 7 gráficos em Jupyter Notebook `Jupyter Notebook` · ⭐ 0 · updated `2026-05-21`
-* **[celebracoes-alema](https://github.com/Ucazin/celebracoes-alema)** — No description yet. `JavaScript` · ⭐ 0 · updated `2026-06-12`
 
 <sub>This block is regenerated by GitHub Actions. New Python, JavaScript, TypeScript, SQL, notebook, or web projects will appear automatically after the next run.</sub>
 <!--END_SECTION:github-pulse-->
